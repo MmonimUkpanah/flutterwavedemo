@@ -29,7 +29,7 @@
           <p class="main__one__text__p1">The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
@@ -43,7 +43,7 @@
           <p class="main__one__text__p1">Colors play a vital role in making a web page usable or not. In CSS, we can control the foreground and background color of an element with the color and background properties.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
           <p class="main__one__text__p1">CSS variables are custom properties that cascade normally and even inherit. They start with a reserved --- prefix, and there are no real rules about their value.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
@@ -71,7 +71,7 @@
           <p class="main__one__text__p1">The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
@@ -85,7 +85,7 @@
           <p class="main__one__text__p1">Colors play a vital role in making a web page usable or not. In CSS, we can control the foreground and background color of an element with the color and background properties.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
@@ -99,7 +99,7 @@
           <p class="main__one__text__p1">CSS variables are custom properties that cascade normally and even inherit. They start with a reserved --- prefix, and there are no real rules about their value.</p>
           <div class="main__one__text__footnote">
           <small class="main__one__text__footnote__small1">3 Min Read</small>
-          <small class="main__one__text__footnote__small2"><span class="main__one__text__footnote__small2__text">Read Full</span>  &#8594; </small>
+          <small class="main__one__text__footnote__small2"><a href="/details"><span class="main__one__text__footnote__small2__text"> Read Full</span>  &#8594;</a> </small>
         </div>
         </div>
       </div>
